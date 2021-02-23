@@ -14,10 +14,13 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: mkdocs build
-      - uses: shallwefootball/s3-upload-action@master
+      - uses: jakejarvis/s3-sync-action@master
         with:
-          aws_key_id: ${{ secrets.AWS_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
-          aws_bucket: ${{ secrets.AWS_BUCKET }}
-          source_dir: '/home/runner/work/digidiscussions/digidiscussions/site'
-          destination_dir: ''
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_BUCKET}}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
+          SOURCE_DIR: '/home/runner/work/digidiscussions/digidiscussions/site'
+          DEST_DIR: ''

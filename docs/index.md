@@ -1,4 +1,4 @@
-Topics
+Topics - smells like cabbage
 # Hardware
 	• Networking
 	• Storage (flash, mechanical, device) 

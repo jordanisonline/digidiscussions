@@ -48,10 +48,10 @@ General questions to always keep in mind
 
 
 Contact Us
-| Position | Name    | Email          |
-| -------- | ------- | -------------- |
-|Moderator |John Doe | john@gmail.com |
-| Admin    |Jane Doe | jane@gmail.com |
+| Position  | Name      | Email          |
+| --------  | --------- | -------------- |
+| Moderator | John Doe  | john@gmail.com |
+| Admin     | Jane Doe  | jane@gmail.com |
 ___
 **Below you will find sample markdown syntax** 
 

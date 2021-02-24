@@ -1,3 +1,7 @@
 site_name: DigiDiscussions
 theme:
   name: material
+
+  nav:
+    - 'index.md'
+    - 'about.md'

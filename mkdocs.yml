@@ -1,6 +1,8 @@
 site_name: DigiDiscussions
 nav:
     - Home: index.md
+    - Hardware: Hardware.md
+    - Software: Software.md
     - About: about.md
 theme:
   name: material

@@ -1,6 +1,8 @@
 # Software
 ```python
-This <page> will have links to anything spoken about concerning the electrons wizzing around inside of a computer (big or small) to make something happen.
+This <page> will have links to anything spoken about 
+concerning the electrons wizzing around inside 
+of a computer (big or small) to make something happen.
 ```
 ---
 What tier are you in - web>app>data

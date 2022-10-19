@@ -4,6 +4,7 @@ nav:
     - Hardware: hardware.md
     - Software: software.md
     - Example: example.md
+    - How: how.md
     - About: about.md
 theme:
   name: material

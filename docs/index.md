@@ -1,4 +1,7 @@
-# Hardware
+# Welcome to Digidiscussions 
+This where we come to get topics to have a digidiscussion as we stroll through cyberspace
+
+## Hardware
 	• Networking
 	• Storage (flash, mechanical, device) 
 		○ NAS
@@ -16,7 +19,7 @@
 	• Quantum computing (sike timey whimey) 
 	
 
-# Software
+## Software
 What tier are you in - web>app>data
 
 	• Bare metal OS 

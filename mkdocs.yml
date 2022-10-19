@@ -1,4 +1,5 @@
 site_name: DigiDiscussions
+site_description: A nice set of topics to chat about while strolling through cyberspace
 nav:
     - Home: index.md
     - Hardware: hardware.md

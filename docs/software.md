@@ -19,3 +19,13 @@ What tier are you in - web>app>data
 	• Programming scripting languages
 	• Gaming (my gen, your gen, next gen, retro ) 
 	• Entertainment (media servers, video and music players) 
+
+## Things I'm working on
+	• Proxmox
+	• Packer 
+	• cloud-init
+	• Terraform
+	• Azure DevOps
+	• AWS Cloudformation
+	• github actions
+	• Kubernetes

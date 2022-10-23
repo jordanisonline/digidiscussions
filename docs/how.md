@@ -1,5 +1,5 @@
 # How are we doing this!
-This site uses github actions to sync to an S3 bucket
+This site uses github actions to sync to an S3 bucket and Route 53
   
 [![ci](https://github.com/jordanisonline/digidiscussions/actions/workflows/ci.yml/badge.svg)](https://github.com/jordanisonline/digidiscussions/actions/workflows/ci.yml)  
 ☝🏽  

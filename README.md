@@ -1,2 +1,2 @@
 # digidiscussions
-This is for the digidiscussions
+This repo is for the digidiscussions

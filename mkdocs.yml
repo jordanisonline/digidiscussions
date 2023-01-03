@@ -8,5 +8,5 @@ nav:
     - How: how.md
     - About: about.md
 theme:
-  name: material
+  name: bootstrap4
   nav_style: dark
